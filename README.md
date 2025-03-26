@@ -18,6 +18,8 @@ Evaluation: Calculate accuracy scores on training and test data.
 Save Model: Save the trained model using joblib.
 Prediction: Predict whether new news articles are real or fake.
 
+You can find the dataset file: https://www.kaggle.com/c/fake-news/da...
+
 How to Run:
 Load the dataset (train.csv).
 Run the code to train and evaluate the model.
